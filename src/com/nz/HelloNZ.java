@@ -6,6 +6,8 @@ public class HelloNZ {
 
 
 		System.out.println("Hello NZ");
+		
+		System.out.println("Added a statement in feature branch");
 
 	}
 
